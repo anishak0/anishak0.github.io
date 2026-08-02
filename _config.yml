@@ -1,5 +1,3 @@
-title: My Hacker Site
-description: Welcome to my terminal-style homepage.
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-remote-theme
